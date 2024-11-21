@@ -1,6 +1,6 @@
 # Determination Font Pack
 
-## 🎉 is now on v1.1.0 🎉
+## 🎉 [is now on v1.1.0](https://github.com/freakingdan/Determination-Font-Pack/releases/download/v1.1.0/DFP2.207.zip) 🎉
 
 This simple texture pack (or should i say font pack) changes the bigFont, goldFont and chatFont to the iconic font used in the game called [Undertale](https://store.steampowered.com/app/391540/Undertale/).
 
