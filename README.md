@@ -1,6 +1,6 @@
 # Determination Font Pack
 
-## 🎉 is now on v1.0.1 🎉
+## 🎉 is now on v1.1.0 🎉
 
 This simple texture pack (or should i say font pack) changes the bigFont, goldFont and chatFont to the iconic font used in the game called [Undertale](https://store.steampowered.com/app/391540/Undertale/).
 
