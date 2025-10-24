@@ -17,8 +17,7 @@ Big shoutout to [Toby Fox](https://x.com/tobyfox) for making this iconic game an
 PS: by the way this is my first time creating a texture pack of my own so please dont be ashamed of my work here (I'm a noob when it comes to programming like this)
 
 > [!IMPORTANT]
-> If you install this together with your texture pack that has the `bigFont`, `goldFont`, and `chatFont`, There's a chance that the text will make it glitched out
-> Install it at your own risk, don't report an issue about this, it will make you stupid.
+> If you install this together with your texture pack that has the `bigFont`, `goldFont`, and `chatFont`, There's a chance that the text will make it glitched out \nInstall it at your own risk, don't report an issue about this, it will make you stupid.
 
 ## Take note though 🤔
 
