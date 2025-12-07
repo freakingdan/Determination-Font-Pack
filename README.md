@@ -25,6 +25,6 @@ PS: by the way this is my first time creating a texture pack of my own so please
 
 ## Take note though 🤔
 
-This font pack was published in just 2 days of hardwork using nothing more but my mobile phone, specifically, I use the only resource i have which is this website called [ttf2fnt](https://ttf2fnt.com) and adjusted it to my liking. And a **HUGE** contribution to this is some texture packs i currently applied (I am looking at you [tetrysTP](https://github.com/ItsJaid/tetrysTP-2.2)), without it, this font pack wouldn't exist so thank you so much again!
+This font pack was published in just 2 days of hardwork using nothing more but my mobile phone, ~specifically, I use the only resource i have which is this website called [ttf2fnt](https://ttf2fnt.com) and adjusted it to my liking.~(The domain is now down and on sale, it's sad to see it like this 🥲🥲😭😭) And a **HUGE** contribution to this is some texture packs i currently applied (I am looking at you [tetrysTP](https://github.com/ItsJaid/tetrysTP-2.2)), without it, this font pack wouldn't exist so thank you so much again!
 
 ***There's a small [tutorial](https://github.com/freakingdan/Determination-Font-Pack/wiki/Welcome-to-this-wiki-(or-should-i-say-%22How-To's%22)) on how to install this pack if you're confused how.***
