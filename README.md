@@ -1,6 +1,6 @@
 # Determination Font Pack
 
-## 🎉 [is now on v1.2.0](https://github.com/freakingdan/Determination-Font-Pack/releases/download/v1.2.0/DFPNew.zip) 🎉
+## 🎉 [is now on v1.2.1](https://github.com/freakingdan/Determination-Font-Pack/releases/download/v1.2.1/DFPNew.zip) 🎉
 
 This simple texture pack (or should i say font pack) changes the bigFont, goldFont and chatFont to the iconic font used in the game called [Undertale](https://store.steampowered.com/app/391540/Undertale/).
 
@@ -25,6 +25,6 @@ PS: by the way this is my first time creating a texture pack of my own so please
 
 ## Take note though 🤔
 
-This font pack was published in just 2 days of hardwork using nothing more but my mobile phone, ~specifically, I use the only resource i have which is this website called [ttf2fnt](https://ttf2fnt.com) and adjusted it to my liking.~(The domain is now down and on sale, it's sad to see it like this 🥲🥲😭😭) And a **HUGE** contribution to this is some texture packs i currently applied (I am looking at you [tetrysTP](https://github.com/ItsJaid/tetrysTP-2.2)), without it, this font pack wouldn't exist so thank you so much again!
+This font pack was published in just 2 days of hardwork using nothing more but my mobile phone, ~specifically, I use the only resource i have which is this website called [ttf2fnt](https://ttf2fnt.com) and adjusted it to my liking.~ (Shoutout to [SilenceLeo](https://github.com/SilenceLeo/snowb-bmf) for making the [SnowB Bitmap Font](https://snowb.org) website. Without you, this wouldn't exist today!) And a **HUGE** contribution to this is some texture packs i currently applied (I am looking at you [tetrysTP](https://github.com/ItsJaid/tetrysTP-2.2)), without it, this font pack wouldn't exist so thank you so much again!
 
 ***There's a small [tutorial](https://github.com/freakingdan/Determination-Font-Pack/wiki/Welcome-to-this-wiki-(or-should-i-say-%22How-To's%22)) on how to install this pack if you're confused how.***
