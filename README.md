@@ -4,7 +4,7 @@
 
 This simple texture pack (or should i say font pack) changes the bigFont, goldFont and chatFont to the iconic font used in the game called [Undertale](https://store.steampowered.com/app/391540/Undertale/).
 
-Big shoutout to [Toby Fox](https://x.com/tobyfox) for making this iconic game and this iconic font for use.
+Big thanks to [Toby Fox](https://x.com/tobyfox) for making this iconic game and this iconic font for use.
 
 ## Screenshots
 
@@ -18,7 +18,7 @@ Big shoutout to [Toby Fox](https://x.com/tobyfox) for making this iconic game an
 ![Screenshot_20251130-125702](https://github.com/user-attachments/assets/f0cfe6ca-6154-4caa-bb39-5a3a5eb8b90f)
 *With version 1.2.0*<br/>
 
-PS: by the way this is my first time creating a texture pack of my own so please dont be ashamed of my work here (I'm a noob when it comes to programming like this)
+PS: by the way this is my first time creating a texture pack of my own so please don't be ashamed of my work here (I'm a noob when it comes to programming like this)
 
 > [!IMPORTANT]
 > If you install this together with your texture pack that has the `bigFont`, `goldFont`, and `chatFont`, There's a chance that the text will make it glitched out<br>Install it at your own risk, don't report an issue about this, it will make you stupid.
