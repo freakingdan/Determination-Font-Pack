@@ -19,7 +19,7 @@ Big thanks to [Toby Fox](https://x.com/tobyfox) for making this iconic game and 
 ![Screenshot_20251130-125614](https://github.com/user-attachments/assets/593060af-80b3-4fe6-8c54-5bf1c5a59ab9)
 ![Screenshot_20251130-125702](https://github.com/user-attachments/assets/f0cfe6ca-6154-4caa-bb39-5a3a5eb8b90f)
 <p align="center">
-  <sub>With version 1.2.0</sub>
+  <sub>With version 1.2.0+</sub>
 </p>
 
 PS: by the way this is my first time creating a texture pack of my own so please don't be ashamed of my work here (I'm a noob when it comes to programming like this)
